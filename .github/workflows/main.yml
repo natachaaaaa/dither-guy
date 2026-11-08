@@ -252,6 +252,9 @@ jobs:
     needs: [build-windows, build-linux, build-macos]
     runs-on: ubuntu-latest
     if: startsWith(github.ref, 'refs/tags/')
+    # Creating a release needs write access; new repos give GITHUB_TOKEN read-only by default.
+    permissions:
+      contents: write
     steps:
       - uses: actions/download-artifact@v4
         with:
@@ -263,7 +266,7 @@ jobs:
           mv artifacts/DitherGuy-Linux-universal/DitherGuy               artifacts/DitherGuy-Linux-universal/DitherGuy-Linux
           mv artifacts/DitherGuy-Linux-cuda/DitherGuy-CUDA               artifacts/DitherGuy-Linux-cuda/DitherGuy-Linux-CUDA
           mv artifacts/DitherGuy-macOS/DitherGuy                         artifacts/DitherGuy-macOS/DitherGuy-macOS
-      - uses: softprops/action-gh-release@v1
+      - uses: softprops/action-gh-release@v2
         with:
           files: |
             artifacts/DitherGuy-Windows-universal/DitherGuy-Windows.exe
