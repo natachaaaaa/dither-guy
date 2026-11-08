@@ -1,0 +1,34 @@
+{
+  "method": "Floyd-Steinberg",
+  "pixel_size": 1,
+  "threshold": 128,
+  "brightness": 0.95,
+  "contrast": 1.5,
+  "saturation": 0.0,
+  "hue_rotate": 0,
+  "blur": 0,
+  "sharpen": 1,
+  "pre_denoise": 0,
+  "pre_smooth": 0,
+  "color": [
+    255,
+    255,
+    255
+  ],
+  "glow_radius": 6,
+  "glow_intensity": 25,
+  "glow_gradient_name": "Mono White",
+  "glow_gradient": [
+    [
+      255,
+      255,
+      255
+    ]
+  ],
+  "glow_mode": "Luminance",
+  "post_denoise": 0,
+  "post_smooth": 0,
+  "palette_name": "Noir",
+  "custom_palette": null,
+  "category": "Dark"
+}

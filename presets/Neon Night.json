@@ -1,0 +1,44 @@
+{
+  "method": "Bayer 8x8",
+  "pixel_size": 2,
+  "threshold": 128,
+  "brightness": 0.95,
+  "contrast": 1.35,
+  "saturation": 1.8,
+  "hue_rotate": 0,
+  "blur": 0,
+  "sharpen": 0,
+  "pre_denoise": 0,
+  "pre_smooth": 0,
+  "color": [
+    255,
+    255,
+    255
+  ],
+  "glow_radius": 16,
+  "glow_intensity": 60,
+  "glow_gradient_name": "Synthwave",
+  "glow_gradient": [
+    [
+      255,
+      0,
+      128
+    ],
+    [
+      140,
+      30,
+      255
+    ],
+    [
+      0,
+      220,
+      255
+    ]
+  ],
+  "glow_mode": "Luminance",
+  "post_denoise": 0,
+  "post_smooth": 0,
+  "palette_name": "Cyberpunk Neon",
+  "custom_palette": null,
+  "category": "Cyber"
+}

@@ -1,0 +1,44 @@
+{
+  "method": "Bayer 8x8",
+  "pixel_size": 3,
+  "threshold": 128,
+  "brightness": 1.05,
+  "contrast": 0.95,
+  "saturation": 0.9,
+  "hue_rotate": 0,
+  "blur": 1,
+  "sharpen": 0,
+  "pre_denoise": 0,
+  "pre_smooth": 0,
+  "color": [
+    255,
+    255,
+    255
+  ],
+  "glow_radius": 14,
+  "glow_intensity": 35,
+  "glow_gradient_name": "Sunset",
+  "glow_gradient": [
+    [
+      255,
+      94,
+      77
+    ],
+    [
+      255,
+      154,
+      0
+    ],
+    [
+      255,
+      206,
+      84
+    ]
+  ],
+  "glow_mode": "Vertical",
+  "post_denoise": 0,
+  "post_smooth": 0,
+  "palette_name": "Lo-Fi",
+  "custom_palette": null,
+  "category": "Print & Analog"
+}

@@ -1,0 +1,28 @@
+{
+  "method": "Crosshatch",
+  "pixel_size": 1,
+  "threshold": 140,
+  "brightness": 1.1,
+  "contrast": 1.6,
+  "saturation": 0.0,
+  "hue_rotate": 0,
+  "blur": 0,
+  "sharpen": 2,
+  "pre_denoise": 0,
+  "pre_smooth": 0,
+  "color": [
+    245,
+    240,
+    230
+  ],
+  "glow_radius": 0,
+  "glow_intensity": 0,
+  "glow_gradient_name": "Source",
+  "glow_gradient": null,
+  "glow_mode": "Luminance",
+  "post_denoise": 0,
+  "post_smooth": 0,
+  "palette_name": "B&W",
+  "custom_palette": null,
+  "category": "Print & Analog"
+}

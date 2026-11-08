@@ -1,0 +1,49 @@
+{
+  "method": "Burkes",
+  "pixel_size": 2,
+  "threshold": 128,
+  "brightness": 1.05,
+  "contrast": 1.4,
+  "saturation": 1.5,
+  "hue_rotate": 0,
+  "blur": 0,
+  "sharpen": 1,
+  "pre_denoise": 0,
+  "pre_smooth": 0,
+  "color": [
+    255,
+    255,
+    255
+  ],
+  "glow_radius": 18,
+  "glow_intensity": 60,
+  "glow_gradient_name": "Inferno",
+  "glow_gradient": [
+    [
+      20,
+      0,
+      40
+    ],
+    [
+      180,
+      20,
+      80
+    ],
+    [
+      255,
+      120,
+      0
+    ],
+    [
+      255,
+      240,
+      120
+    ]
+  ],
+  "glow_mode": "Luminance",
+  "post_denoise": 0,
+  "post_smooth": 0,
+  "palette_name": "Infrared",
+  "custom_palette": null,
+  "category": "Elements"
+}

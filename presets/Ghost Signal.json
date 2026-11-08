@@ -1,0 +1,44 @@
+{
+  "method": "Blue-Noise Mask",
+  "pixel_size": 2,
+  "threshold": 140,
+  "brightness": 1.15,
+  "contrast": 1.2,
+  "saturation": 0.0,
+  "hue_rotate": 0,
+  "blur": 1,
+  "sharpen": 0,
+  "pre_denoise": 0,
+  "pre_smooth": 0,
+  "color": [
+    210,
+    220,
+    255
+  ],
+  "glow_radius": 18,
+  "glow_intensity": 55,
+  "glow_gradient_name": "Ice",
+  "glow_gradient": [
+    [
+      0,
+      30,
+      90
+    ],
+    [
+      0,
+      170,
+      255
+    ],
+    [
+      230,
+      250,
+      255
+    ]
+  ],
+  "glow_mode": "Luminance",
+  "post_denoise": 0,
+  "post_smooth": 0,
+  "palette_name": "B&W",
+  "custom_palette": null,
+  "category": "Dark"
+}

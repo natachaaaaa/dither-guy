@@ -1,0 +1,44 @@
+{
+  "method": "Void-and-Cluster",
+  "pixel_size": 2,
+  "threshold": 128,
+  "brightness": 1.05,
+  "contrast": 1.2,
+  "saturation": 1.5,
+  "hue_rotate": 0,
+  "blur": 0,
+  "sharpen": 0,
+  "pre_denoise": 0,
+  "pre_smooth": 0,
+  "color": [
+    255,
+    255,
+    255
+  ],
+  "glow_radius": 22,
+  "glow_intensity": 55,
+  "glow_gradient_name": "Aurora",
+  "glow_gradient": [
+    [
+      0,
+      255,
+      160
+    ],
+    [
+      0,
+      160,
+      255
+    ],
+    [
+      180,
+      0,
+      255
+    ]
+  ],
+  "glow_mode": "Horizontal",
+  "post_denoise": 0,
+  "post_smooth": 0,
+  "palette_name": "Ice",
+  "custom_palette": null,
+  "category": "Elements"
+}

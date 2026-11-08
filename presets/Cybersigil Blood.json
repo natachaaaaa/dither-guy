@@ -1,0 +1,44 @@
+{
+  "method": "Atkinson",
+  "pixel_size": 1,
+  "threshold": 110,
+  "brightness": 1.0,
+  "contrast": 1.7,
+  "saturation": 0.0,
+  "hue_rotate": 0,
+  "blur": 0,
+  "sharpen": 2,
+  "pre_denoise": 0,
+  "pre_smooth": 0,
+  "color": [
+    220,
+    0,
+    30
+  ],
+  "glow_radius": 8,
+  "glow_intensity": 60,
+  "glow_gradient_name": "Neon Blood",
+  "glow_gradient": [
+    [
+      60,
+      0,
+      0
+    ],
+    [
+      255,
+      0,
+      40
+    ],
+    [
+      255,
+      140,
+      140
+    ]
+  ],
+  "glow_mode": "Luminance",
+  "post_denoise": 0,
+  "post_smooth": 0,
+  "palette_name": "B&W",
+  "custom_palette": null,
+  "category": "Cyber"
+}

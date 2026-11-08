@@ -1,0 +1,44 @@
+{
+  "method": "Jarvis-Judice-Ninke",
+  "pixel_size": 2,
+  "threshold": 128,
+  "brightness": 0.95,
+  "contrast": 1.4,
+  "saturation": 1.2,
+  "hue_rotate": 0,
+  "blur": 0,
+  "sharpen": 1,
+  "pre_denoise": 0,
+  "pre_smooth": 0,
+  "color": [
+    255,
+    255,
+    255
+  ],
+  "glow_radius": 14,
+  "glow_intensity": 55,
+  "glow_gradient_name": "Neon Blood",
+  "glow_gradient": [
+    [
+      60,
+      0,
+      0
+    ],
+    [
+      255,
+      0,
+      40
+    ],
+    [
+      255,
+      140,
+      140
+    ]
+  ],
+  "glow_mode": "Radial",
+  "post_denoise": 0,
+  "post_smooth": 0,
+  "palette_name": "Blood Moon",
+  "custom_palette": null,
+  "category": "Dark"
+}

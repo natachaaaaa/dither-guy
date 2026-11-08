@@ -1,0 +1,44 @@
+{
+  "method": "Variable-Error",
+  "pixel_size": 2,
+  "threshold": 128,
+  "brightness": 1.05,
+  "contrast": 1.4,
+  "saturation": 1.5,
+  "hue_rotate": 0,
+  "blur": 0,
+  "sharpen": 1,
+  "pre_denoise": 0,
+  "pre_smooth": 0,
+  "color": [
+    255,
+    255,
+    255
+  ],
+  "glow_radius": 14,
+  "glow_intensity": 60,
+  "glow_gradient_name": "Toxic",
+  "glow_gradient": [
+    [
+      40,
+      80,
+      0
+    ],
+    [
+      170,
+      255,
+      0
+    ],
+    [
+      240,
+      255,
+      120
+    ]
+  ],
+  "glow_mode": "Luminance",
+  "post_denoise": 0,
+  "post_smooth": 0,
+  "palette_name": "Toxic",
+  "custom_palette": null,
+  "category": "Elements"
+}

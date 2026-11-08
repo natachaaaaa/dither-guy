@@ -1,0 +1,49 @@
+{
+  "method": "Stucki",
+  "pixel_size": 1,
+  "threshold": 128,
+  "brightness": 1.1,
+  "contrast": 1.5,
+  "saturation": 0.0,
+  "hue_rotate": 0,
+  "blur": 0,
+  "sharpen": 3,
+  "pre_denoise": 0,
+  "pre_smooth": 0,
+  "color": [
+    255,
+    255,
+    255
+  ],
+  "glow_radius": 10,
+  "glow_intensity": 55,
+  "glow_gradient_name": "Chrome",
+  "glow_gradient": [
+    [
+      40,
+      40,
+      50
+    ],
+    [
+      200,
+      200,
+      215
+    ],
+    [
+      255,
+      255,
+      255
+    ],
+    [
+      150,
+      140,
+      200
+    ]
+  ],
+  "glow_mode": "Vertical",
+  "post_denoise": 0,
+  "post_smooth": 0,
+  "palette_name": "Y2K Chrome",
+  "custom_palette": null,
+  "category": "Cyber"
+}

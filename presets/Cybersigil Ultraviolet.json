@@ -1,0 +1,44 @@
+{
+  "method": "Atkinson",
+  "pixel_size": 1,
+  "threshold": 115,
+  "brightness": 1.05,
+  "contrast": 1.6,
+  "saturation": 0.0,
+  "hue_rotate": 0,
+  "blur": 0,
+  "sharpen": 2,
+  "pre_denoise": 0,
+  "pre_smooth": 0,
+  "color": [
+    200,
+    120,
+    255
+  ],
+  "glow_radius": 9,
+  "glow_intensity": 65,
+  "glow_gradient_name": "Ultraviolet",
+  "glow_gradient": [
+    [
+      30,
+      0,
+      80
+    ],
+    [
+      150,
+      0,
+      255
+    ],
+    [
+      255,
+      120,
+      255
+    ]
+  ],
+  "glow_mode": "Luminance",
+  "post_denoise": 0,
+  "post_smooth": 0,
+  "palette_name": "B&W",
+  "custom_palette": null,
+  "category": "Cyber"
+}

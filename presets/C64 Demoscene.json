@@ -1,0 +1,64 @@
+{
+  "method": "Bayer 8x8",
+  "pixel_size": 4,
+  "threshold": 128,
+  "brightness": 1.0,
+  "contrast": 1.3,
+  "saturation": 1.4,
+  "hue_rotate": 0,
+  "blur": 0,
+  "sharpen": 0,
+  "pre_denoise": 0,
+  "pre_smooth": 0,
+  "color": [
+    255,
+    255,
+    255
+  ],
+  "glow_radius": 10,
+  "glow_intensity": 40,
+  "glow_gradient_name": "Rainbow",
+  "glow_gradient": [
+    [
+      255,
+      0,
+      0
+    ],
+    [
+      255,
+      170,
+      0
+    ],
+    [
+      255,
+      255,
+      0
+    ],
+    [
+      0,
+      220,
+      0
+    ],
+    [
+      0,
+      160,
+      255
+    ],
+    [
+      120,
+      0,
+      255
+    ],
+    [
+      255,
+      0,
+      200
+    ]
+  ],
+  "glow_mode": "Vertical",
+  "post_denoise": 0,
+  "post_smooth": 0,
+  "palette_name": "Commodore 64",
+  "custom_palette": null,
+  "category": "Retro Hardware"
+}

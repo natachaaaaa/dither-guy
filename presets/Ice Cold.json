@@ -1,0 +1,44 @@
+{
+  "method": "Sierra-Lite",
+  "pixel_size": 2,
+  "threshold": 128,
+  "brightness": 1.1,
+  "contrast": 1.25,
+  "saturation": 0.8,
+  "hue_rotate": 0,
+  "blur": 0,
+  "sharpen": 0,
+  "pre_denoise": 0,
+  "pre_smooth": 0,
+  "color": [
+    255,
+    255,
+    255
+  ],
+  "glow_radius": 16,
+  "glow_intensity": 50,
+  "glow_gradient_name": "Ice",
+  "glow_gradient": [
+    [
+      0,
+      30,
+      90
+    ],
+    [
+      0,
+      170,
+      255
+    ],
+    [
+      230,
+      250,
+      255
+    ]
+  ],
+  "glow_mode": "Vertical",
+  "post_denoise": 0,
+  "post_smooth": 0,
+  "palette_name": "Ice",
+  "custom_palette": null,
+  "category": "Elements"
+}

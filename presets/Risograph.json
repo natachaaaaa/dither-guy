@@ -1,0 +1,34 @@
+{
+  "method": "Blue-Noise",
+  "pixel_size": 2,
+  "threshold": 128,
+  "brightness": 1.05,
+  "contrast": 1.2,
+  "saturation": 1.3,
+  "hue_rotate": 0,
+  "blur": 0,
+  "sharpen": 0,
+  "pre_denoise": 0,
+  "pre_smooth": 0,
+  "color": [
+    255,
+    255,
+    255
+  ],
+  "glow_radius": 4,
+  "glow_intensity": 20,
+  "glow_gradient_name": "Mono White",
+  "glow_gradient": [
+    [
+      255,
+      255,
+      255
+    ]
+  ],
+  "glow_mode": "Luminance",
+  "post_denoise": 0,
+  "post_smooth": 0,
+  "palette_name": "Risograph",
+  "custom_palette": null,
+  "category": "Print & Analog"
+}

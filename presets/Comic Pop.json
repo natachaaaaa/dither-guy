@@ -1,0 +1,28 @@
+{
+  "method": "Clustered-Dot",
+  "pixel_size": 4,
+  "threshold": 128,
+  "brightness": 1.1,
+  "contrast": 1.5,
+  "saturation": 1.6,
+  "hue_rotate": 0,
+  "blur": 0,
+  "sharpen": 1,
+  "pre_denoise": 0,
+  "pre_smooth": 0,
+  "color": [
+    255,
+    255,
+    255
+  ],
+  "glow_radius": 0,
+  "glow_intensity": 0,
+  "glow_gradient_name": "Source",
+  "glow_gradient": null,
+  "glow_mode": "Luminance",
+  "post_denoise": 0,
+  "post_smooth": 0,
+  "palette_name": "Comic Pop",
+  "custom_palette": null,
+  "category": "Print & Analog"
+}

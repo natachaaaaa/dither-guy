@@ -1,0 +1,44 @@
+{
+  "method": "Stevenson-Arce",
+  "pixel_size": 2,
+  "threshold": 128,
+  "brightness": 1.0,
+  "contrast": 1.2,
+  "saturation": 0.5,
+  "hue_rotate": 0,
+  "blur": 1,
+  "sharpen": 0,
+  "pre_denoise": 0,
+  "pre_smooth": 0,
+  "color": [
+    255,
+    255,
+    255
+  ],
+  "glow_radius": 10,
+  "glow_intensity": 30,
+  "glow_gradient_name": "Gold",
+  "glow_gradient": [
+    [
+      90,
+      50,
+      0
+    ],
+    [
+      255,
+      190,
+      40
+    ],
+    [
+      255,
+      245,
+      190
+    ]
+  ],
+  "glow_mode": "Radial",
+  "post_denoise": 0,
+  "post_smooth": 0,
+  "palette_name": "Sepia",
+  "custom_palette": null,
+  "category": "Print & Analog"
+}

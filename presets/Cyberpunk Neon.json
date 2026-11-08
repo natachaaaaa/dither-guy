@@ -1,0 +1,44 @@
+{
+  "method": "Bayer 4x4",
+  "pixel_size": 2,
+  "threshold": 128,
+  "brightness": 1.1,
+  "contrast": 1.3,
+  "saturation": 1.6,
+  "hue_rotate": 0,
+  "blur": 0,
+  "sharpen": 1,
+  "pre_denoise": 0,
+  "pre_smooth": 0,
+  "color": [
+    255,
+    255,
+    255
+  ],
+  "glow_radius": 12,
+  "glow_intensity": 55,
+  "glow_gradient_name": "Cyberpunk",
+  "glow_gradient": [
+    [
+      252,
+      238,
+      10
+    ],
+    [
+      255,
+      0,
+      140
+    ],
+    [
+      0,
+      240,
+      255
+    ]
+  ],
+  "glow_mode": "Diagonal",
+  "post_denoise": 0,
+  "post_smooth": 0,
+  "palette_name": "Cyberpunk Neon",
+  "custom_palette": null,
+  "category": "Cyber"
+}
