@@ -45,7 +45,12 @@ The project focuses on providing a simple and straightforward tool for applying 
 
 Download the latest release for your platform:
 
-###  [Windows](https://github.com/manoelpiovesan/dither-guy/releases/latest) | [Linux](https://github.com/manoelpiovesan/dither-guy/releases/latest) | [macOS](https://github.com/manoelpiovesan/dither-guy/releases/latest)
+###  [Windows](https://github.com/natachaaaaa/dither-guy/releases/latest) | [Linux](https://github.com/natachaaaaa/dither-guy/releases/latest) | [macOS](https://github.com/natachaaaaa/dither-guy/releases/latest)
+
+**macOS (Apple Silicon):** open `DitherGuy-macOS.dmg` and drag **Dither Guy** into **Applications**.
+The app is not notarised by Apple, so the first launch is blocked: open **System Settings → Privacy & Security**, scroll down and click **Open Anyway** (or right-click the app → **Open**). This is needed only once.
+
+**Windows:** SmartScreen may show "Windows protected your PC" on first launch: click **More info → Run anyway**.
 
 # Development
 
