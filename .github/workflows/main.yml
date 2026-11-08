@@ -113,7 +113,7 @@ jobs:
             '--clean', '--noconfirm',
             "--name=$name",
             '--onefile', '--windowed', '--noconsole',
-            '--icon=app_icon.png', '--add-data=app_icon.png;.', '--add-data=fonts;fonts', '--hidden-import=utils.fx', '--hidden-import=utils.pipeline', '--hidden-import=utils.gradients', '--hidden-import=utils.export', '--hidden-import=utils.ui_extras', '--hidden-import=utils.ui_preset_browser',
+            '--icon=app_icon.png', '--add-data=app_icon.png;.', '--add-data=fonts;fonts', '--add-data=presets;presets', '--hidden-import=utils.fx', '--hidden-import=utils.pipeline', '--hidden-import=utils.gradients', '--hidden-import=utils.export', '--hidden-import=utils.ui_extras', '--hidden-import=utils.ui_preset_browser',
             '--hidden-import=PySide6.QtCore', '--hidden-import=PySide6.QtGui', '--hidden-import=PySide6.QtWidgets',
             '--hidden-import=PIL', '--hidden-import=PIL.Image', '--hidden-import=PIL.ImageFilter', '--hidden-import=PIL.ImageEnhance',
             '--hidden-import=numpy', '--hidden-import=cv2', '--hidden-import=shiboken6',
@@ -178,7 +178,7 @@ jobs:
           pyinstaller --clean --noconfirm \
             --name="$NAME" \
             --onefile --windowed --strip \
-            --add-data=fonts:fonts --hidden-import=utils.fx --hidden-import=utils.pipeline --hidden-import=utils.gradients --hidden-import=utils.export --hidden-import=utils.ui_extras --hidden-import=utils.ui_preset_browser \
+            --add-data=fonts:fonts --add-data=presets:presets --hidden-import=utils.fx --hidden-import=utils.pipeline --hidden-import=utils.gradients --hidden-import=utils.export --hidden-import=utils.ui_extras --hidden-import=utils.ui_preset_browser \
             --hidden-import=PySide6.QtCore --hidden-import=PySide6.QtGui --hidden-import=PySide6.QtWidgets \
             --hidden-import=PIL --hidden-import=PIL.Image --hidden-import=PIL.ImageFilter --hidden-import=PIL.ImageEnhance \
             --hidden-import=numpy --hidden-import=cv2 --hidden-import=shiboken6 \
@@ -229,7 +229,7 @@ jobs:
           pyinstaller --clean --noconfirm \
             --name="DitherGuy" \
             --onefile --windowed --strip \
-            --add-data=fonts:fonts --hidden-import=utils.fx --hidden-import=utils.pipeline --hidden-import=utils.gradients --hidden-import=utils.export --hidden-import=utils.ui_extras --hidden-import=utils.ui_preset_browser \
+            --add-data=fonts:fonts --add-data=presets:presets --hidden-import=utils.fx --hidden-import=utils.pipeline --hidden-import=utils.gradients --hidden-import=utils.export --hidden-import=utils.ui_extras --hidden-import=utils.ui_preset_browser \
             --hidden-import=PySide6.QtCore --hidden-import=PySide6.QtGui --hidden-import=PySide6.QtWidgets \
             --hidden-import=PIL --hidden-import=PIL.Image --hidden-import=PIL.ImageFilter --hidden-import=PIL.ImageEnhance \
             --hidden-import=numpy --hidden-import=cv2 --hidden-import=shiboken6 \
